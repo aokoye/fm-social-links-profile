@@ -65,6 +65,7 @@ button {
 }
 
 button:hover {
-    color: hsl(75, 94%, 57%);
+    background-color: hsl(75, 94%, 57%);
+    color: #000000;
     cursor: pointer;
 }
